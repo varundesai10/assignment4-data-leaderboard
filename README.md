@@ -21,4 +21,5 @@ In your pull request description, you should include:
 
 | Name           | Validation Loss | Link | Verification status (leave empty) |
 | :------------- | --------------: | ---: | --------------------------------: |
+| Varun Desai    |            3.58 | https://api.wandb.ai/links/vdesai10/ekdr2kg7| |
 | naive baseline |            4.00 |      |                          Verified |
